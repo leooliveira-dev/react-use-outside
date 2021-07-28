@@ -5,4 +5,6 @@ This is a small bit of code, but surely a useful one. This "click-outside" funct
 
 This iteration expects not only a `ref` of the element that should have its outside detected and the function that it should fire when this outside is clicked, but also a list of exceptions, which are the IDs of elements that won't fire the action if you click on them.
 
-Have a look, and clone this on your project! 😁
+This hook is not only using TypeScript but also documented with a JSCode snippet for better coding experience.
+
+Have a look, and clone this on your next project! 😁
